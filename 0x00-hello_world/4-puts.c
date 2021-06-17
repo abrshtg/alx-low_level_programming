@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*Description: prints "\"Programming is like building a multilingual puzzle"
+/**
+ * main - print a stiring
+ * Description: prints "\"Programming is like building a multilingual puzzle"
+ * including the double quote in the begining
+ * Return: 0
  */
 int main(void)
 {
