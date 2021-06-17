@@ -6,6 +6,7 @@ gcc $CFILE -S > $(echo $CFILE\|cut -d"." -f1).s|script that generates the assemb
 gcc $CFILE -o cisfun|script that compiles a C file and creates an executable named cisfun., The C file name will be saved in the variable $CFILE|
 puts("\"Programming is like building a multilingual puzzle");|a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line., Use the function puts|
 printf("%s", "with proper grammar, but the outcome is a piece of art,\n");|a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line., Use the function printf|
+%lu|a place holder in c l for long u for unsigned decimal integer|
 
 
 
