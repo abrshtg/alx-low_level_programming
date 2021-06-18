@@ -10,7 +10,7 @@ positive_or_negative.c|This program will assign a random number to the variable 
 7-print_tebahpla.c|prints out the alphabet in reverse|
 8-print_base16.c|prints out all the numbers of base 16 in lowercase,You can only use the putchar function|
 9-print_comb.c|a program that prints all possible combinations of single-digit numbers. Numbers must be separated by ',', followed by a space|
-
+100-print_comb3.c|a program that prints all possible different combinations of two digits., Numbers must be separated by ,, followed by a space, The two digits must be different, 01 and 10 are considered the same combination of the two digits 0 and 1, Print only the smallest combination of two digits, Numbers should be printed in ascending order, with two digits|
 
 
 
