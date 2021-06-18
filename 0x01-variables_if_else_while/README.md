@@ -4,3 +4,5 @@ positive_or_negative.c|This program will assign a random number to the variable 
 1-last_digit.c|Print last digit of randomly assigned number and check the digit is greater or less than 5 or it is zero|
 2-print_alphabet.c| a program that prints the alphabet in lowercase, followed by a new line|
 3-print_alphabets.c|a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line and you are only allowed putchar function|
+4-print_alphabt.c|display alphabates except e an q|
+
