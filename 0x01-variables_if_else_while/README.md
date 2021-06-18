@@ -9,7 +9,7 @@ positive_or_negative.c|This program will assign a random number to the variable 
 6-print_numberz.c|a program that prints all single digit numbers of base 10 starting from 0, followed by a new line., You are not allowed to use any variable of type char|
 7-print_tebahpla.c|prints out the alphabet in reverse|
 8-print_base16.c|prints out all the numbers of base 16 in lowercase,You can only use the putchar function|
-
+9-print_comb.c|a program that prints all possible combinations of single-digit numbers. Numbers must be separated by ',', followed by a space|
 
 
 
